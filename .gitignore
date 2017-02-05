@@ -4,3 +4,5 @@ bin/app.properties
 *.class
 bin/Manifest.mf
 *.log
+/bin
+/jar
