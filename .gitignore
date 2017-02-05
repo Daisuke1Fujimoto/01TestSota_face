@@ -1,0 +1,6 @@
+bin/app.properties
+*.jar
+*.zip
+*.class
+bin/Manifest.mf
+*.log
